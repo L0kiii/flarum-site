@@ -27,7 +27,7 @@
         "flarum/emoji": "*",
         "flarum/lang-english": "*",
         "flarum/flags": "*",
-        "flarum/likes": "*",
+        "flarum/likes": "dev-master",
         "flarum/lock": "*",
         "flarum/markdown": "*",
         "flarum/mentions": "*",

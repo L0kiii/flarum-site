@@ -1,3 +1,6 @@
 [submodule "packages/core"]
 	path = packages/core
 	url = git@github.com:L0kiii/flarum-core.git
+[submodule "packages/likes"]
+	path = packages/likes
+	url = git@github.com:L0kiii/flarum-likes.git
